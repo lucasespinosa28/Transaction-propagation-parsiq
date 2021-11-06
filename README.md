@@ -22,3 +22,4 @@ end
 
 ### config
 in `src/config.js` add your google sheets API and sheet id and the first address of propagation 
+use `yarn dev` to run the app
