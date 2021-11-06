@@ -7,8 +7,10 @@ import config from "./config";
 const etherscan = "https://rinkeby.etherscan.io";
 const format = (v) => `Ξ${v}`;
 
-const formatAddress = (address) =>
-  `${address.slice(0, 6)}...${address.slice(-4)}`;
+const formatAddress = (address) =>{
+  if(address.length > 20) return`${address.slice(0, 6)}...${address.slice(-4)}`;
+  return address
+}
 
 function App() {
   const [tx, setTx] = useState();
@@ -54,7 +56,7 @@ function App() {
         if (nodes.length < 5) {
           setHeight(750);
         } else {
-          setHeight(nodes.length * 100);
+          setHeight(nodes.length * 50);
         }
         const links = table.map((e) => {
           return {
