@@ -1,6 +1,4 @@
-# Transaction-propagation-parsiq [demo video](https://youtu.be/q-wWc8AX5jY)
-# [demo video](https://youtu.be/q-wWc8AX5jY)
-# [demo page](https://lucasespinosa28.github.io/Transaction-propagation-parsiq/index.html)
+# Transaction-propagation-parsiq [demo video](https://youtu.be/q-wWc8AX5jY) [demo page](https://lucasespinosa28.github.io/Transaction-propagation-parsiq/index.html)
 
 ## [parsiq projects](https://staging.parsiq.net/monitoring/projects/f5151c7a-210f-49fe-be0e-40d293eaa1d6/)
 ![Screenshot from 2021-11-06 01-35-52](https://user-images.githubusercontent.com/52639395/140606298-99b0cc0e-4c9c-48c1-ad87-09ed56b1db49.png)
