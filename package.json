@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@nivo/core": "^0.74.0",
-    "@nivo/sankey": "^0.74.0",
+    "@nivo/sankey": "^0.80.0",
     "ethers": "^5.5.1",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
